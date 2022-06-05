@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17b2a04c49703ee478190ae653cb0677, type: 3}
+  m_Name: WindowColors
+  m_EditorClassIdentifier: 
+  side_background: {r: 0.2784314, g: 0.2784314, b: 0.2784314, a: 1}
+  left_panel_background: {r: 0.20754719, g: 0.20754719, b: 0.20754719, a: 1}
+  right_panel_background: {r: 0.23584908, g: 0.23584908, b: 0.23584908, a: 1}
+  wireframe: {r: 0, g: 0, b: 0, a: 0.48235294}
+  button_selected: {r: 0.36862746, g: 0.4666667, b: 0.60784316, a: 0.92156863}
+  button_background: {r: 0.2784314, g: 0.2784314, b: 0.2784314, a: 1}
+  text_color: {r: 0.8000001, g: 0.8000001, b: 0.8000001, a: 0.9647059}
+  link_color: {r: 0.227451, g: 0.4784314, b: 0.9725491, a: 0.94509804}
