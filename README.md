@@ -11,3 +11,6 @@ Finally it caches the downloaded items on your hard drive with an easy to find p
  3. In your toolbar navigate to `Window > Gumroad > Package Manager`
  4. Click the refresh icon to see if it can successfully pull your personal `Library` list from gumroad.
  5. If it can you're all set! If not you probably typed something wrong in the cookie field
+
+# LICENSE
+The license file can be found in the `Editor` directory. This is under the AGPL license. Basically you can do anything you want with this (even commercially) except if you make changes to this you can't close it off and sell it. You will have to release those changes under open-source with the AGPL license as well.
